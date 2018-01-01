@@ -1,4 +1,4 @@
-SpreadCoin integration/staging tree
+BitcoinSpread integration/staging tree
 ================================
 
 https://bitcoinspread.org/
@@ -7,7 +7,7 @@ Copyright (c)
 - 2009-2014, The developers;
 - 2017 - Åá, The BitcoinSpread developers
 
-What is SpreadCoin?
+What is BitcoinSpread?
 ----------------
 BitcoinSpread is the official fork of SpreadCoin (SPR). We're continuing where the previous developers have left, and we'll forge our own roadmap along.
  - Algorithm: SpreadX11
