@@ -5,7 +5,7 @@ https://bitcoinspread.org/
 
 Copyright (c) 
 - 2009-2014, The developers;
-- 2017 - Åá, The BitcoinSpread developers
+- 2017 - ¬Å‚Ä°, The BitcoinSpread developers
 
 What is BitcoinSpread?
 ----------------
@@ -28,7 +28,7 @@ BitcoinSpread is the official fork of SpreadCoin (SPR). We're continuing where t
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+BitcoinSpread is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
